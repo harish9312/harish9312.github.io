@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.13091308.css",
   "main.css.map": "static/css/main.13091308.css.map",
-  "main.js": "static/js/main.7471f22c.js",
-  "main.js.map": "static/js/main.7471f22c.js.map",
+  "main.js": "static/js/main.04f15864.js",
+  "main.js.map": "static/js/main.04f15864.js.map",
   "static/media/ROCK.TTF": "static/media/ROCK.fcca3a4a.TTF",
   "static/media/RhodiumLibre.ttf": "static/media/RhodiumLibre.2a37c5ca.ttf",
   "static/media/RosarioRegular.otf": "static/media/RosarioRegular.0f18a757.otf",
@@ -14,6 +14,5 @@
   "static/media/linkedIn.png": "static/media/linkedIn.8159bd2b.png",
   "static/media/myImg.jpg": "static/media/myImg.21393c7c.jpg",
   "static/media/phone.png": "static/media/phone.cc55eda4.png",
-  "static/media/pn.png": "static/media/pn.a922af46.png",
-  "static/media/safeConnectLogo.png": "static/media/safeConnectLogo.d3f7fe2a.png"
+  "static/media/pn.png": "static/media/pn.a922af46.png"
 }
